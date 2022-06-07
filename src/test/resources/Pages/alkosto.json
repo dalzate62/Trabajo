@@ -1,0 +1,22 @@
+{
+  "Telefonos": {
+    "GetFieldBy":"id",
+    "ValueToFind": "jk-grid-items-category"
+  },
+  "SeleccionaTelefonos": {
+    "GetFieldBy":"id",
+    "ValueToFind": "ctn-info-grid"
+  },
+  "AgregarProducto": {
+    "GetFieldBy":"id",
+    "ValueToFind": "js-add-cart-194252099094"
+  },
+  "ContinuarComprando": {
+    "GetFieldBy":"className",
+    "ValueToFind": "button-primary button-primary__outline"
+  },
+  "MisProductos": {
+    "GetFieldBy":"className",
+    "ValueToFind": "js-mobile-navigation-item js-mini-cart-link"
+  }
+}
